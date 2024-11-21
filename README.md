@@ -30,19 +30,31 @@ Click OK to save network settings.
 Click Start to boot up the newly created virtual machine.
 During installation, set a password for the root user.
 After logging in to CentOS, open a terminal to start using the command line.
-## COMMANDS
+## COMMANDS:
+```
 Switch to User:
 su username
+```
+```
 View IP Address:
 ip a
+```
+```
 Create a Directory:
 mkdir <directory_name>
+```
+```
 Change to the New Directory:
 cd <directory_name>
+```
+```
 Edit the Hostname File:
 vi /etc/hostname
+```
+```
 View the Content of the Hostname File:
 cat /etc/hostname
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/83836415-d482-4340-b486-d335be96b581)
