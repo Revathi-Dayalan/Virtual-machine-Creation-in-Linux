@@ -3,10 +3,11 @@
  Reg No:212221240045
  Name:Revathi D
 ```
-  ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+  ## AIM:
+       To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
+This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
+
 
 ## ALGORITHM
  ### Steps 1:
